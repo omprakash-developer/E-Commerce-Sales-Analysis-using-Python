@@ -1,0 +1,7 @@
+﻿Product_ID,Product_Name,Category,Subcategory,Brand,Cost_Price,Selling_Price
+P101,Wireless Mouse,Electronics,Accessories,TechPro,300,500
+P102,Mechanical Keyboard,Electronics,Accessories,KeyMaster,800,1200
+P103,Cotton T-Shirt,Clothing,Apparel,UrbanWear,180,300
+P104,Office Chair,Furniture,Office,ComfortCo,1400,2000
+P105,Running Shoes,Footwear,Sports,ActiveStep,500,800
+P106,Smart Watch,Electronics,Wearables,TechPro,2000,2500

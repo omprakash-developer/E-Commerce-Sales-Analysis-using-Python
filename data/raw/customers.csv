@@ -1,0 +1,9 @@
+﻿Customer_ID,Customer_Name,Gender,Age,City,State,Region,Customer_Type
+C001,Aarav,Male,22,Bhubaneswar,Odisha,East,Returning
+C002,Diya,Female,25,Mumbai,Maharashtra,West,Returning
+C003,Rohan,Male,28,Delhi,Delhi,North,Returning
+C004,Ananya,Female,23,Chennai,Tamil Nadu,South,Returning
+C005,Arjun,Male,30,Pune,Maharashtra,West,New
+C006,Meera,Female,27,Delhi,Delhi,North,New
+C007,Kabir,Male,24,Bengaluru,Karnataka,South,New
+C008,Isha,Female,21,Bhubaneswar,Odisha,East,New
